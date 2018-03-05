@@ -1,8 +1,8 @@
-layout:
+layout: post
 title: "Test Post"
 description: "Initial Post"
 thumb_image: 
-tags: [blog]
+tags:
 
 ---
 

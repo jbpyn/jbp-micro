@@ -1,3 +1,9 @@
-# Test Post
+layout:
+title: "Test Post"
+description: "Initial Post"
+thumb_image: 
+tags: [blog]
 
-Making sure I can commit from iPad 
+---
+
+First Test Post

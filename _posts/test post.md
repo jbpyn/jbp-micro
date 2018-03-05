@@ -1,4 +1,5 @@
-layout: post
+---
+layout: Post
 title: "Test Post"
 description: "Initial Post"
 thumb_image: 

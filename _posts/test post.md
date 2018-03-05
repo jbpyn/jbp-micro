@@ -3,8 +3,7 @@ layout: Post
 title: "Test Post"
 description: "Initial Post"
 thumb_image: 
-tags:
-
+tags: [web]
 ---
 
 First Test Post

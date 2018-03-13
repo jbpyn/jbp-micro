@@ -154,6 +154,12 @@
           {% include svg-icon.html icon="ethereum" %}
         </a>
       </li>
+    {% endif %}{% if site.social.micro.blog %}
+      <li>
+        <a href="https://micro.blog/jbp/{{ site.social.micro.blog }}" rel="noreferrer noopener" target="_blank" title="micro.blog">
+          {% include svg-icon.html icon="micro.blog" %}
+        </a>
+      </li>
     {% endif %}
     {% if site.social.email %}
       <li>

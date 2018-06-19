@@ -20,11 +20,6 @@ svgxuse@^1.2.4:
   version "1.2.6"
   resolved "https://registry.yarnpkg.com/svgxuse/-/svgxuse-1.2.6.tgz#d6251edd07a75cb28618e0c23e8d4db64936d6be"
 
-throttle-debounce-fn@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/throttle-debounce-fn/-/throttle-debounce-fn-1.0.1.tgz#baa530496a5fb567ab7bb373ea0778b9db962492"
-  dependencies:
-    jquery ">=1.4.0"
 
 webfontloader@^1.6.28:
   version "1.6.28"
